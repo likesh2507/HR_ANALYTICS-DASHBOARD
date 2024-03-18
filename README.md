@@ -1,3 +1,4 @@
+![HR ANALYTICS DASHBOARD](https://github.com/likesh2507/HR_ANALYTICS-DASHBOARD/assets/163775541/99fba3dc-c5c8-4c41-8522-166e700b9b84)
 # HR_ANALYTICS-DASHBOARD
 "Hey everyone! Exciting news - just dropped my another project on HR Analytics using Power BI!
 
