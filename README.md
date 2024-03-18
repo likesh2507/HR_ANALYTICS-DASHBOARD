@@ -1,4 +1,3 @@
-![HR ANALYTICS DASHBOARD](https://github.com/likesh2507/HR_ANALYTICS-DASHBOARD/assets/163775541/99fba3dc-c5c8-4c41-8522-166e700b9b84)
 # HR_ANALYTICS-DASHBOARD
 "Hey everyone! Exciting news - just dropped my another project on HR Analytics using Power BI!
 
@@ -13,3 +12,4 @@ Created a cool dashboard to check out how our team is doing and figure out how t
 "Boost Your HR Game! Our Power BI dashboard gives us the scoop on how to keep our team strong and happy. #dataanalysis #dashboard"
 
 "Empower Your Team! Come see how we're using HR analytics in Power BI to make our team even better. #dataanalyst #powerbideveloper"
+![HR ANALYTICS DASHBOARD](https://github.com/likesh2507/HR_ANALYTICS-DASHBOARD/assets/163775541/99fba3dc-c5c8-4c41-8522-166e700b9b84)
